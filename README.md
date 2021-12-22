@@ -19,7 +19,9 @@ To use the library for fine-tuning, you'll need to take the following steps:
 
 ### End-to-end example
  ```transform_uci_drug.py``` to preprocess the data from [Drug Review Dataset (Drugs.com) Data Set](https://archive.ics.uci.edu/ml/datasets/Drug+Review+Dataset+%28Drugs.com%29)
- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1IVT53DBwFxLKftpIn5iKtF0g4xb9yuxm?usp=sharing)
+ 
+A colab tutorial walking through how sequence classification fine tuning works with cnlp :)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1IVT53DBwFxLKftpIn5iKtF0g4xb9yuxm?usp=sharing)
  
 ## Running existing APIs
 There are existing APIs in the ```api``` folder for a few important clinical NLP tasks: 
